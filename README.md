@@ -1,6 +1,8 @@
 # Console.log and Leave !!
 ==========================
 
+![Leave](https://api.travis-ci.org/Javascipt/leave.svg)
+
 If you too think these two lines are annoying to repeat everytime you want to debug,
 
 ```javascript
