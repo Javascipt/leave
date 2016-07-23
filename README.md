@@ -1,5 +1,5 @@
-# Console.log and Leave !!
-==========================
+Console.log and Leave !!
+========================
 
 ![Leave](https://api.travis-ci.org/Javascipt/leave.svg)
 
@@ -22,7 +22,7 @@ If you too think these two lines are annoying to repeat everytime you want to de
 
 ```javascript
     var leave = require('leave');
-    leave(value); // will print and leave and process.exit()
+    leave(value); // will print and process.exit()
 ```
 
 it has same use as console.log, here are more examples:
